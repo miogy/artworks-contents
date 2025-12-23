@@ -13,5 +13,20 @@
     ],
     "role": ["Graphic Design"],
     "tools": ["Photoshop", "Illustrator"]
+  },
+  {
+    "slug": "savour-25fall-editorial",
+    "title": "SAVOR 25FALL Editorial",
+    "category": "Scarf-drawing",
+    "year": 2025,
+    "tags": ["Graphic", "Editorial"],
+    "excerpt": "Seasonal editorial assets for retail rollout.",
+    "thumbnail": "img/2025/acc-250807br.png",
+    "gallery": [
+      "img/2025/acc-250807br.png",
+      "img/2025/acc-250807gn.png"
+    ],
+    "role": ["Graphic Design"],
+    "tools": ["Photoshop", "Illustrator"]
   }
 ]
