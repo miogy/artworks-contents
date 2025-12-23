@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "savour-25fall-editorial",
+    "title": "SAVOR 25FALL Editorial",
+    "category": "inhouse",
+    "year": 2025,
+    "tags": ["Graphic", "Editorial"],
+    "excerpt": "Seasonal editorial assets for retail rollout.",
+    "thumbnail": "img/2025/ti-25ssop01.png",
+    "gallery": [
+      "img/2025/ti-25ssop01.png",
+      "img/2025/ti-25sspst01-or.png"
+    ],
+    "role": ["Graphic Design"],
+    "tools": ["Photoshop", "Illustrator"]
+  }
+]
