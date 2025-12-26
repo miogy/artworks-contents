@@ -5,7 +5,7 @@
     "description": "Seasonal print direction and production-ready artwork for apparel & goods.",
     "category": "inhouse",
     "year": 2025,
-    "thumbnail": "img/acc-250807br.png",
+    "thumbnail": "/img/acc-250807br.png",
     "featured": { "homeHeroKey": "inhouse" }
   },
   {
@@ -14,7 +14,7 @@
     "description": "Campaign visuals, POP assets, and consistent brand presentation systems.",
     "category": "promotion",
     "year": 2024,
-    "thumbnail": "img/ti-25ssop01.png",
+    "thumbnail": "/img/ti-25ssop01.png",
     "featured": { "homeHeroKey": "promotion" }
   },
   {
@@ -23,7 +23,7 @@
     "description": "Character-driven graphics and merch-ready assets for storytelling brand lines.",
     "category": "artistIp",
     "year": 2025,
-    "thumbnail": "img/acc-251027.png",
+    "thumbnail": "/img/acc-251027.png",
     "featured": { "homeHeroKey": "artistIp" }
   }
 ]
