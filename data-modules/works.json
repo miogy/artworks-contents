@@ -1,32 +1,29 @@
 [
   {
-    "slug": "savour-25fall-editorial",
-    "title": "SAVOR 25FALL Editorial",
+    "slug": "le-studio-ss25-boho-print",
+    "title": "LE STUDIO SS25 Boho Print",
+    "description": "Seasonal print direction and production-ready artwork for apparel & goods.",
     "category": "inhouse",
     "year": 2025,
-    "tags": ["Graphic", "Editorial"],
-    "excerpt": "Seasonal editorial assets for retail rollout.",
-    "thumbnail": "img/2025/ti-25ssop01.png",
-    "gallery": [
-      "img/2025/ti-25ssop01.png",
-      "img/2025/ti-25sspst01-or.png"
-    ],
-    "role": ["Graphic Design"],
-    "tools": ["Photoshop", "Illustrator"]
+    "thumbnail": "/placeholder/hero-1.jpg",
+    "featured": { "homeHeroKey": "inhouse" }
   },
   {
-    "slug": "savour-25fall-editorial",
-    "title": "SAVOR 25FALL Editorial",
-    "category": "Scarf-drawing",
+    "slug": "fabric-promo-fw25",
+    "title": "Fabric Promo FW25",
+    "description": "Campaign visuals, POP assets, and consistent brand presentation systems.",
+    "category": "promotion",
+    "year": 2024,
+    "thumbnail": "/placeholder/hero-3.jpg",
+    "featured": { "homeHeroKey": "promotion" }
+  },
+  {
+    "slug": "sunny-jade-ip-series-01",
+    "title": "Sunny & Jade IP Series 01",
+    "description": "Character-driven graphics and merch-ready assets for storytelling brand lines.",
+    "category": "artistIp",
     "year": 2025,
-    "tags": ["Graphic", "Editorial"],
-    "excerpt": "Seasonal editorial assets for retail rollout.",
-    "thumbnail": "img/2025/acc-250807br.png",
-    "gallery": [
-      "img/2025/acc-250807br.png",
-      "img/2025/acc-250807gn.png"
-    ],
-    "role": ["Graphic Design"],
-    "tools": ["Photoshop", "Illustrator"]
+    "thumbnail": "/placeholder/hero-2.jpg",
+    "featured": { "homeHeroKey": "artistIp" }
   }
 ]
