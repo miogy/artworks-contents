@@ -136,3 +136,43 @@ heroRank
 - 선택 필드는 삭제 하지 않고 빈 배열로 이용한다.
 - UI노출 여부는 featured, hero 제어한다.
 - 설명 흐름: 요청 → 해결 → 결과
+
+---
+
+## about.json Schema Doc
+
+소개 및 경력등 데이터를 공유합니다.
+
+---
+
+#### 1. 기본 스키마 (최소 확장)
+
+```json
+"intro":{
+  "headline": "string",
+  "summary": [],
+  "coreCompetency": [],
+  "skills": [],
+  "email": "string",
+  "links": [],
+},
+
+```
+
+---
+
+#### 2. 설명 (Top-level)
+
+summary
+- 소개 요약
+
+coreCompetency
+- 핵심 역량 / 일하는 방식 / 실무 능력
+- 나중에 About 페이지에서 리스트 / 체크포인트 / 강조 섹션으로 쓰기 좋음
+
+skills
+- 툴, 프로그램
+
+PDF Portfolio
+- data-modules/public/downloads 구조
+
