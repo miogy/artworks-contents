@@ -1,29 +1,51 @@
 [
   {
-    "slug": "le-studio-ss25-boho-print",
-    "title": "LE STUDIO SS25 Boho Print",
-    "description": "Seasonal print direction and production-ready artwork for apparel & goods.",
-    "category": "inhouse",
-    "year": 2025,
-    "thumbnail": "/img/2025/acc-250807br.png",
-    "featured": { "homeHeroKey": "inhouse" }
-  },
-  {
-    "slug": "fabric-promo-fw25",
-    "title": "Fabric Promo FW25",
-    "description": "Campaign visuals, POP assets, and consistent brand presentation systems.",
-    "category": "promotion",
+    "slug": "thursday-island-fw25",
+    "title": "Thursday Island OP FW25",
+    "description": "Thursday Island FW25 원피스 자수 디자인입니다.",
+    "category": "in-house",
     "year": 2024,
     "thumbnail": "/img/2025/ti-25ssop01.png",
-    "featured": { "homeHeroKey": "promotion" }
+    "featured": { "homeHeroKey": "in-house" }
   },
   {
-    "slug": "sunny-jade-ip-series-01",
-    "title": "Sunny & Jade IP Series 01",
-    "description": "Character-driven graphics and merch-ready assets for storytelling brand lines.",
-    "category": "artistIp",
+    "slug": "Scarf-Design-print",
+    "title": "CRD Scarf Design Print",
+    "description": "크로커다일의 C,R,D의 이니셜을 사용하여 디자인한 스카프 디자인입니다.",
+    "category": "promotion",
     "year": 2025,
-    "thumbnail": "/img/2025/acc-251027.png",
-    "featured": { "homeHeroKey": "artistIp" }
-  }
+    "thumbnail": "/img/2025/acc-250807br.png",
+    "featured": { "homeHeroKey": "promotion" }
+  },
+
+
+
+
+
+
+  {
+  "slug": "Brand-Scarf-Design",
+  "title": "Brand Scarf Design",
+  "year": 2025,
+  "category": "promotion",
+  "description": "브랜드 로고 C,R,D의 이니셜을 활용한 스카프 디자인",
+  "thumbnail": "/img/2025/acc-250807br.png",
+  "cover": "/img/2025/acc-250807br.png",
+  "gallery": [
+    "/img/2025/acc-250807br.png",
+    "/img/2025/acc-250807gn.png"
+  ],
+  "content": [
+    { "type": "paragraph", "text": "의뢰 요청: 브랜드 로고의 이니셜인 C,R,D를 이용한 디자인, Brown,Green 두가지 배색 요청." },
+    { "type": "bullets", "items": ["CRD 브랜드 로고 플레이 디자인", ""] }
+  ],
+  "roles": ["Art Direction", "Print Design"],
+  "tools": ["Illustrator", "Photoshop"],
+  "client": "LE STUDIO",
+  "links": [{ "label": "Campaign", "url": "https://example.com" }],
+  "featured": true,
+  "hero": true,
+  "heroRank": 1
+}
+
 ]
