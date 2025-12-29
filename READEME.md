@@ -1,6 +1,6 @@
 ## works.json Schema Doc
 
-본 스키마는 포트폴리오 사이트(홈 / Work 리스트 / Work 상세 페이지)에서 공통으로 사용되며,
+본 스키마는 포트폴리오 사이트(홈 / Work 리스트 / Work 상세 페이지)에서 공통으로 사용되며,</br>
 특히 상세 페이지 본문(content) 은 아래의 4단계 구조를 기준으로 작성하는 것을 권장합니다.
 
 본 스키마의 목표는 다음과 같습니다.
@@ -13,7 +13,7 @@
 
 ### 기본 설계 원칙
 
-모든 상세 콘텐츠는 아래의 **4단계 서사 구조**를 따릅니다.
+모든 상세 콘텐츠는 아래의 4단계 서사 구조를 따릅니다.
 
 (Request) → (Requirement) → (Approach) → (Output)
 
@@ -80,7 +80,7 @@ thumbnail
 cover
 - 상세 페이지 상단 대표 이미지
 
-gallery (배열)
+gallery (배열)</br>
 상세 페이지에 사용되는 이미지 배열입니다.
 - 디테일 or 리핏
 - 컬러웨이
@@ -89,17 +89,17 @@ gallery (배열)
 ---
 
 #### 3. content
-상세 페이지의 텍스트 영역입니다.
-모든 항목은 type을 기준으로 렌더링됩니다.
+상세 페이지의 텍스트 영역입니다.</br>
+모든 항목은 type을 기준으로 렌더링됩니다.</br>
 
-(1) Repuest : 클라이언트 요청/브리프
-(2) Repuirement : 핵심 요구사항(체크리스트), 요청의 구체화 단계입니다.
+(1) Repuest : 클라이언트 요청/브리프</br>
+(2) Repuirement : 핵심 요구사항(체크리스트), 요청의 구체화 단계입니다.</br>
 - 작업 범위
 - 산출물
 - 사용처
 - 수정 범위
-(3) Approach : 디자인 방향
-(4) Output : 최종 결과물
+(3) Approach : 디자인 방향</br>
+(4) Output : 최종 결과물</br>
 - 사용 모티브
 - 리핏 분류, 사이즈
 - 최종 파일
@@ -108,10 +108,10 @@ gallery (배열)
 
 #### 4. 메타 정보
 
-roles : 담당 
-tools : 사용 툴
-client : 클라이언트(Brand or Promotion) or 개인 작업(Persnal Project)
-links : 작업 링크
+roles : 담당 </br>
+tools : 사용 툴</br>
+client : 클라이언트(Brand or Promotion) or 개인 작업(Persnal Project)</br>
+links : 작업 링크</br>
 
 ---
 

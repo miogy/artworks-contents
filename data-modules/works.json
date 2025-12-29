@@ -1,51 +1,119 @@
 [
   {
-    "slug": "thursday-island-fw25",
-    "title": "Thursday Island OP FW25",
-    "description": "Thursday Island FW25 원피스 자수 디자인입니다.",
-    "category": "in-house",
-    "year": 2024,
-    "thumbnail": "/img/2025/ti-25ssop01.png",
-    "featured": { "homeHeroKey": "in-house" }
-  },
-  {
-    "slug": "Scarf-Design-print",
-    "title": "CRD Scarf Design Print",
-    "description": "크로커다일의 C,R,D의 이니셜을 사용하여 디자인한 스카프 디자인입니다.",
-    "category": "promotion",
+    "slug": "Brand-Scarf-Design",
+    "title": "Brand Scarf Design",
     "year": 2025,
+    "category": "promotion",
+    "description": "브랜드 로고 C,R,D의 이니셜을 활용한 스카프 디자인",
     "thumbnail": "/img/2025/acc-250807br.png",
-    "featured": { "homeHeroKey": "promotion" }
+    "cover": "/img/2025/acc-250807br.png",
+    "gallery": [
+      "/img/2025/acc-250807br.png",
+      "/img/2025/acc-250807gn.png"
+    ],
+    "content": [
+    { 
+      "type": "paragraph",
+      "text": "요청 사항: 브랜드 로고의 이니셜인 C,R,D를 이용한 디자인, Brown,Green 두가지 배색." 
+    },
+    { 
+    "type": "bullets",
+    "items": [
+      "이니셜 C / R / D 기반 로고 플레이",
+      "컬러웨이: Brown / Green 2종",
+      "사용처: 의류 프린트 및 웹",
+      "제공 파일: pdf, ai",
+      "수정 범위: 초안 컨펌후 디테일 작업, 총 2회"]
+    },
+    {
+    "type": "paragraph",
+    "text": "모노그램 패턴화를 바탕으로 다양한 레이아웃 변형이 가능하도록 작업하여 브랜드 인지도를 유지하도록 구성함."
+    }
+    ],
+    "roles": ["Art Direction", "Print Design"],
+    "tools": ["Illustrator", ""],
+    "client": "Textile Promotion",
+    "links": [{ "label": "", "url": "" }],
+    "featured": true,
+    "hero": true,
+    "heroRank": 1
   },
-
-
-
-
-
-
   {
-  "slug": "Brand-Scarf-Design",
-  "title": "Brand Scarf Design",
-  "year": 2025,
-  "category": "promotion",
-  "description": "브랜드 로고 C,R,D의 이니셜을 활용한 스카프 디자인",
-  "thumbnail": "/img/2025/acc-250807br.png",
-  "cover": "/img/2025/acc-250807br.png",
-  "gallery": [
-    "/img/2025/acc-250807br.png",
-    "/img/2025/acc-250807gn.png"
-  ],
-  "content": [
-    { "type": "paragraph", "text": "의뢰 요청: 브랜드 로고의 이니셜인 C,R,D를 이용한 디자인, Brown,Green 두가지 배색 요청." },
-    { "type": "bullets", "items": ["CRD 브랜드 로고 플레이 디자인", ""] }
-  ],
-  "roles": ["Art Direction", "Print Design"],
-  "tools": ["Illustrator", "Photoshop"],
-  "client": "LE STUDIO",
-  "links": [{ "label": "Campaign", "url": "https://example.com" }],
-  "featured": true,
-  "hero": true,
-  "heroRank": 1
-}
-
+    "slug": "ThursdayIsland-Textile-Graphic",
+    "title": "ThursdayIsland OP Design",
+    "year": 2025,
+    "category": "in-house",
+    "description": "SS25 플라워 자수 디자인",
+    "thumbnail": "/img/2025/ti-25ssop01.png",
+    "cover": "/img/2025/ti-25ssop01.png",
+    "gallery": [
+      "",
+      ""
+    ],
+    "content": [
+    { 
+      "type": "paragraph",
+      "text": "요청 사항: 오리지날 자수 모티프 리디자인, 원피스 내에 적절한 레이아웃 제시 " 
+    },
+    { 
+    "type": "bullets",
+    "items": [
+      "단순한 자수 모티브 리디자인",
+      "컬러웨이: 1col",
+      "사용처: 원피스",
+      "제공 파일: ai",
+      ""]
+    },
+    {
+    "type": "paragraph",
+    "text": "앞판 상의 기준 5~6개의 자수 레이아웃으로 심플한 디자인 연출"
+    }
+    ],
+    "roles": ["Modify Design", "Print Design"],
+    "tools": ["Illustrator", ""],
+    "client": "",
+    "links": [{ "label": "", "url": "" }],
+    "featured": true,
+    "hero": true,
+    "heroRank": 2
+  },
+    {
+    "slug": "ThursdayIsland-Textile-Graphic",
+    "title": "ThursdayIsland PT Design",
+    "year": 2025,
+    "category": "in-house",
+    "description": "SS25 패치워크 디자인",
+    "thumbnail": "/img/2025/ti-25sspt01pu.png",
+    "cover": "/img/2025/ti-25sspt01pu.png",
+    "gallery": [
+      "/img/2025/ti-25sspt01pu.png",
+      "/img/2025/ti-25sspt01or.png"
+    ],
+    "content": [
+    { 
+      "type": "paragraph",
+      "text": "요청 사항: 오리지날 패턴을 이용한 모디파이 작업, 본염 작업 형식에 맞춘 레이아웃" 
+    },
+    { 
+    "type": "bullets",
+    "items": [
+      "오리지날의 패치 모티브 컬러감 및 무드 유지",
+      "컬러웨이: 2col",
+      "사용처: 팬츠",
+      "제공 파일: psd(chanel)",
+      "수정 범위: 디자인 모디파이 컨펌후, 본염 작업 형식에 맞춘 레이아웃 작업(바지 패턴에 레이아웃 맞춰서 진행)."]
+    },
+    {
+    "type": "paragraph",
+    "text": "바지 패턴 내에 레이아웃을 맞춰서 같은 디자인으로 적용되게 작업"
+    }
+    ],
+    "roles": ["Modify Design", "Print Design"],
+    "tools": ["Illustrator", "Photoshop"],
+    "client": "",
+    "links": [{ "label": "", "url": "" }],
+    "featured": true,
+    "hero": true,
+    "heroRank": 3
+  }
 ]
