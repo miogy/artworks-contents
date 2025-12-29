@@ -11,6 +11,10 @@
       "/img/2025/acc-250807br.png",
       "/img/2025/acc-250807gn.png"
     ],
+    "mockups": [
+       "/img/2025/acc-250807br.png",
+      "/img/2025/acc-250807gn.png"
+    ],
     "content": [
     { 
       "type": "paragraph",
@@ -47,6 +51,10 @@
     "thumbnail": "/img/2025/ti-25ssop01.png",
     "cover": "/img/2025/ti-25ssop01.png",
     "gallery": [
+      "",
+      ""
+    ],
+    "mockups": [
       "",
       ""
     ],
@@ -125,6 +133,10 @@
     "thumbnail": "/img/2025/acc-251027.png",
     "cover": "/img/2025/acc-251027.png",
     "gallery": [
+      "",
+      ""
+    ],
+    "mockups": [
       "",
       ""
     ],
