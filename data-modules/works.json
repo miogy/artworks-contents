@@ -21,7 +21,7 @@
     "items": [
       "이니셜 C / R / D 기반 로고 플레이",
       "컬러웨이: Brown / Green 2종",
-      "사용처: 의류 프린트 및 웹",
+      "사용처: 스카프",
       "제공 파일: pdf, ai",
       "수정 범위: 초안 컨펌후 디테일 작업, 총 2회"]
     },
@@ -115,5 +115,44 @@
     "featured": true,
     "hero": true,
     "heroRank": 3
+  },
+  {
+    "slug": "Brand-Scarf-Design",
+    "title": "Brand Scarf Design",
+    "year": 2025,
+    "category": "promotion",
+    "description": "페이즐리/패치워크 스카프 디자인",
+    "thumbnail": "/img/2025/acc-251027.png",
+    "cover": "/img/2025/acc-251027.png",
+    "gallery": [
+      "",
+      ""
+    ],
+    "content": [
+    { 
+      "type": "paragraph",
+      "text": "요청 사항: 오리지날 패턴을 이용한 패치워크 디자인" 
+    },
+    { 
+    "type": "bullets",
+    "items": [
+      "지정 사이즈 내에 패치워크 디자인 적용.",
+      "컬러웨이: 1col",
+      "사용처: 스카프",
+      "제공 파일: pdf, ai",
+      "수정 범위: 초안 레이아웃 컨펌후 디테일 작업, 총 2회"]
+    },
+    {
+    "type": "paragraph",
+    "text": "DTP프린트 작업 프로세스와 원단 소재에 맞춰 프린트 작업 "
+    }
+    ],
+    "roles": ["", "Print Design"],
+    "tools": ["Photoshop", ""],
+    "client": "Textile Promotion",
+    "links": [{ "label": "", "url": "" }],
+    "featured": true,
+    "hero": true,
+    "heroRank": 4
   }
 ]
