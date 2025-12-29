@@ -38,6 +38,7 @@
   "thumbnail": "/img/2025/example-thumb.png",
   "cover": "/img/2025/example-cover.png",
   "gallery": [],
+  "mockups": [],
   "content": [],
   "roles": [],
   "tools": [],
@@ -85,6 +86,9 @@ gallery (배열)</br>
 - 디테일 or 리핏
 - 컬러웨이
 - 목업
+
+mockups (3d 시뮬레이션 or mockup)</br>
+- CLO를 이용한 시뮬레이션 이미지,영상 또는 목업 이미지
 
 ---
 
