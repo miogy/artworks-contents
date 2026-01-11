@@ -14,7 +14,6 @@ SSHFS_OPTS=(
   "-o" "reconnect,ServerAliveInterval=15,ServerAliveCountMax=3"
   "-o" "StrictHostKeyChecking=accept-new"
   "-o" "IdentityFile=/home/codespace/.ssh/id_ed25519"
-  "-o" "allow_other"
 )
 
 echo "[mount] mount point: ${MOUNT_POINT}"
@@ -26,10 +25,11 @@ if ! command -v sshfs >/dev/null 2>&1; then
   sudo apt-get install -y sshfs
 fi
 
-if mount | grep -q "${MOUNT_POINT}"; then
+if mount | grep -q "on ${MOUNT_POINT} type fuse.sshfs"; then
   echo "[mount] already mounted."
   exit 0
 fi
+
 
 fusermount3 -u "${MOUNT_POINT}" 2>/dev/null || true
 sudo umount "${MOUNT_POINT}" 2>/dev/null || true
