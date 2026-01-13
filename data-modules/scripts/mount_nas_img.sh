@@ -4,7 +4,7 @@ set -euo pipefail
 
 NAS_HOST="miogy.synology.me"
 NAS_PORT="22"
-NAS_USER="jjangrl87"
+NAS_USER="the_miogy_bot"
 NAS_PATH="/miogy-content/data/img"
 
 MOUNT_POINT="/workspaces/artworks-contents/.nas/img"
@@ -39,6 +39,7 @@ sshfs "${SSHFS_OPTS[@]}" "${NAS_USER}@${NAS_HOST}:${NAS_PATH}" "${MOUNT_POINT}"
 
 echo "[mount] done."
 echo "[mount] sample: ls -al ${MOUNT_POINT}/2025 | tail -n 20"
+
 EOF
 
 chmod +x scripts/mount_nas_img.sh
