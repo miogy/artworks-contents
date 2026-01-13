@@ -1,0 +1,17 @@
+# NAS mount cache (already)
+.nas/
+
+# macOS
+.DS_Store
+
+# Editor / tooling
+.vscode/
+*.log
+
+# Node / Python caches (if you use scripts)
+node_modules/
+__pycache__/
+*.pyc
+
+# Optional: generated index (※ 자동 생성 JSON을 커밋할지 여부에 따라 선택)
+# data-modules/works.index.json

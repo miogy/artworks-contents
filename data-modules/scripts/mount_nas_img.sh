@@ -7,7 +7,7 @@ NAS_PORT="22"
 NAS_USER="jjangrl87"
 NAS_PATH="/miogy-content/data/img"
 
-MOUNT_POINT="/workspaces/artworks-contents/data-modules/img"
+MOUNT_POINT="/workspaces/artworks-contents/.nas/img"
 
 SSHFS_OPTS=(
   "-p" "${NAS_PORT}"
